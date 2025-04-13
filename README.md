@@ -44,9 +44,13 @@ Este proyecto utiliza datos del Censo de los Estados Unidos para analizar el uso
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-**Román Eduardo Briceño Márquez**  
+**Grupo 10**
+**Román Eduardo Briceño Márquez**
+**Integrante 2**
+**Integrante 3**
+**Integrante 4**
 Ingeniero Civil Industrial  
 En proceso de formación en análisis de datos y ciencia de datos.  
 [Perfil de GitHub](https://github.com/Romanbriceno)
