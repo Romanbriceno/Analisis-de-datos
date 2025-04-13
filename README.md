@@ -33,7 +33,6 @@ Este proyecto utiliza datos del Censo de los Estados Unidos para analizar el uso
 | `public_transportation_statistics_by_zip_code-1-2.csv` | Dataset original del censo |
 | `resultado_ventas.xlsx` | Archivo exportado con ventas estimadas por código postal |
 | `promedios_ventas_por_grupo.xlsx` | Resumen agrupado por nivel de uso de transporte público |
-| *(opcional)* `grafico_dispersión.png`, `histograma.png` | Visualizaciones del análisis |
 
 ---
 
